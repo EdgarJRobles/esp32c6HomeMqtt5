@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+main/.cache/*
+*build/*
 # Object files
 *.o
 *.ko
