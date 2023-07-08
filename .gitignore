@@ -2,6 +2,7 @@
 *.d
 main/.cache/*
 *build/*
+*.old
 # Object files
 *.o
 *.ko
